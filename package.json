@@ -1,0 +1,22 @@
+{
+    "name": "tale-bot-examples",
+    "version": "0.1.0",
+    "description": "The Tale Game bots examples",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/echurmanov/tale-bot-examples.git"
+    },
+    "author": "Eugene Churmanov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/echurmanov/tale-bot-examples/issues"
+    },
+    "homepage": "https://github.com/echurmanov/tale-bot-examples#readme",
+    "dependencies": {
+        "tale-api-client-ts": "git+https://github.com/echurmanov/tale-api-client-ts.git"
+    }
+}
