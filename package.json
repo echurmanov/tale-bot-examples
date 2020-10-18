@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/echurmanov/tale-bot-examples#readme",
     "dependencies": {
-        "tale-api-client-ts": "git+https://github.com/echurmanov/tale-api-client-ts.git"
+        "@echurmanov/tale-api-client-ts": "^0.4.1"
     }
 }

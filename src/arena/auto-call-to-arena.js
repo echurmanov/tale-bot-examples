@@ -1,4 +1,4 @@
-const Tale = require('tale-api-client-ts');
+const Tale = require('@echurmanov/tale-api-client-ts');
 
 const userName = '';
 const password = '';
